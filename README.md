@@ -1,3 +1,5 @@
 # bash 01
 
-The script1 creates files in directories.
+RecordsCreationScript.sh creates files in directories.
+RecordsManagementScript.sh changes permissions
+RecordsCleaningScript.sh deleting files
